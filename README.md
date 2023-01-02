@@ -18,4 +18,4 @@ samples, guidance on mobile development, and a full API reference.
 # What I've Practiced on this Project
   - API
   - REST
-  - Integration
+  - Consuming and Integrating API with a project
