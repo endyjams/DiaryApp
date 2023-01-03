@@ -9,7 +9,7 @@ void main() {
   runApp(const MyApp());
 
   JournalService service = JournalService();
-  service.register("Hello World");
+  service.register(Journal.empty());
   //service.get();
 }
 
