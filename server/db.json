@@ -3,5 +3,29 @@
     "content": "Hello World"
   },
   "journals": [
+    {
+      "id": "8a710a60-8b97-11ed-b06b-5fb72f0b5206",
+      "content": "dsadsasd",
+      "created_at": "2022-12-24 15:50:38.516129",
+      "updated_at": "2022-12-24 15:50:38.516129"
+    },
+    {
+      "id": "9b484240-8b97-11ed-b06b-5fb72f0b5206",
+      "content": "testing\n",
+      "created_at": "2023-01-01 15:50:38.516129",
+      "updated_at": "2023-01-01 15:50:38.516129"
+    },
+    {
+      "id": "208c5bc0-8b99-11ed-8b1e-097f547bc495",
+      "content": "handling\n",
+      "created_at": "2022-12-24 16:02:08.529289",
+      "updated_at": "2022-12-24 16:02:08.529289"
+    },
+    {
+      "id": "561a8870-8b99-11ed-8b1e-097f547bc495",
+      "content": "what",
+      "created_at": "2022-12-25 16:02:08.529289",
+      "updated_at": "2022-12-25 16:02:08.529289"
+    }
   ]
 }
